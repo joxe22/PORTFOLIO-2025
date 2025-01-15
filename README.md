@@ -5,7 +5,7 @@ As a driven and self-motivated individual, I've pursued a professional certifica
 
 ### Education
 Business Administration, BA.
-DATA SICENCE, Techical
+Data Science (IBM Educ.), Techical
 
 ### Work Experience
 - Data Scientist Freelancer (Entry)
