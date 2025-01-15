@@ -9,7 +9,7 @@ Data Science (IBM Educ.), Techical
 
 ### Work Experience
 - Data Scientist Freelancer (Entry)
-Global Tech Salary Project
+- Global Tech Salary Project
 
 ### Skills & Sources
 Python, Jupyter Notebook, SQL
